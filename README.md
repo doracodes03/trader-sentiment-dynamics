@@ -1,18 +1,25 @@
-# Fear & Greed Trading Dynamics  
+# 📊 Fear & Greed Trading Dynamics  
 
-This project analyzes the relationship between trader performance and market sentiment  
-using the Bitcoin Fear & Greed Index and Hyperliquid trader data.  
+This project analyzes the relationship between **trader performance** and **market sentiment**  
+using the **Bitcoin Fear & Greed Index** 🪙 and **Hyperliquid trader data** 📈.  
 
-## Features
-- Data preprocessing (sentiment + trades)
-- Trader-level performance aggregation
-- Visual analysis of PnL under Fear vs Greed
-- Statistical testing (t-tests)
-- Predictive modeling (Random Forest Classifier)
+---
 
-## Results
-- Traders tend to be more profitable during [your key insight here].  
-- Market sentiment (fear/greed) significantly influences risk-taking behavior.  
+## 🚀 Features  
+- 🧹 **Data Preprocessing** – cleaning & merging sentiment + trade datasets  
+- 📊 **Trader-Level Aggregation** – daily PnL, leverage, trade size, buy ratio  
+- 🎨 **Visual Insights** – boxplots & trendlines for Fear vs Greed comparisons  
+- 📉 **Statistical Testing** – t-tests to measure performance differences  
+- 🤖 **Predictive Modeling** – Random Forest Classifier for profitability prediction  
+
+---
+
+## 🔍 Key Results & Insights  
+- 💡 Traders tend to be **more profitable during [insert your insight here]**  
+- 😨 **Fear days** show [e.g., lower risk-taking, smaller leverage]  
+- 😈 **Greed days** show [e.g., higher leverage, bigger swings in PnL]  
+- ✅ Market sentiment significantly **influences trader behavior** and outcomes  
+
 
 ## How to Run
 1. Clone the repo
