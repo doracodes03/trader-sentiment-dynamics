@@ -18,3 +18,6 @@ using the Bitcoin Fear & Greed Index and Hyperliquid trader data.
 1. Clone the repo
 2. Install requirements (`pip install -r requirements.txt`)
 3. Run the notebook
+4. Link to historical_data.csv
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
